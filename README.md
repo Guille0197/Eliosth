@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">José Salvador López</h1>
 <h3 align="center">Full stack dev by profession and Game dev by hobby</h3>
 
